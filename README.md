@@ -35,14 +35,14 @@
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* ` git clone https://github.com/080hackers/TermuxTheme`
+* ` git clone https://github.com/akborana3/TermuxTheme`
 * `cd TermuxTheme`
 * `chmod 777 *`
 * `./setup`
 * `ls`
 * `./TermuxTheme.sh`
 ```
-THIS TOOL WAS RECODED BY BAJE TECH AND FIRSTLY MADE WITH NOOB HACKERS, IS NOT MADE TO HACK SOMETHING IT'S JUST MADE TO CHANGE YOUR TERMUX THEME TO
+THIS TOOL WAS RECODED BY AKAY, IS NOT MADE TO HACK SOMETHING IT'S JUST MADE TO CHANGE YOUR TERMUX THEME TO
 LOOK AWEASOME AS YOU DON'T EVER THINK.
 ```
 ## WHAT'S NEW WITH THIS VERSION!
@@ -78,11 +78,11 @@ and now that issue is fixed and it's still look awesome
 
 
 ## Credits
-* Special Thanks To Noob-Hackers
-* Special Thanks To Baje Tech
+* Special Thanks To t.me/akborana
+* Special Thanks To t.me/akborana1
 
 
 ## DONATION
-* Bitcoin Donation Address
+* UPI Donation Address
 
-```31iNfmW5emJRaRBLPy34SPtHwY4bE7yHVe```
+```kaal123@sbi```
